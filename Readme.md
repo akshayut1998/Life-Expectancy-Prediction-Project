@@ -15,6 +15,6 @@ Clone: git clone https://github.com/akshayut1998/Life-Expectancy-Prediction-Proj
 
 Acknowledgments
 
-Dataset from [Kaggle.]([url](https://www.kaggle.com/datasets/amirhosseinmirzaie/countries-life-expectancy)https://www.kaggle.com/datasets/amirhosseinmirzaie/countries-life-expectancy)
+Dataset from Kaggle -  https://www.kaggle.com/datasets/amirhosseinmirzaie/countries-life-expectancy
 
 Educational project.
