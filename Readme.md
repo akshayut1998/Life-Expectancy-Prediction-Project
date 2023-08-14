@@ -11,11 +11,10 @@ data/: Contains life_expectancy_data.csv.
 Rstudio Code/: Life Expectancy Predict.R
 
 Usage
-Clone: git clone https://github.com/your-username/your-project.git
-Install: pip install -r requirements.txt
-Explore notebooks for model code.
-Run code, experiment, and modify.
-Results in results/ directory.
+Clone: git clone https://github.com/akshayut1998/Life-Expectancy-Prediction-Project.git
+
 Acknowledgments
-Dataset from Kaggle.
+
+Dataset from [Kaggle.]([url](https://www.kaggle.com/datasets/amirhosseinmirzaie/countries-life-expectancy)https://www.kaggle.com/datasets/amirhosseinmirzaie/countries-life-expectancy)
+
 Educational project.
