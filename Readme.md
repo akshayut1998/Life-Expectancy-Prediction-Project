@@ -8,8 +8,8 @@ The dataset includes country-wise features like year, status, adult mortality, a
 
 Contents
 data/: Contains life_expectancy_data.csv.
-notebooks/: Jupyter notebooks with model code.
-results/: Store analysis outputs.
+Rstudio Code/: Life Expectancy Predict.R
+
 Usage
 Clone: git clone https://github.com/your-username/your-project.git
 Install: pip install -r requirements.txt
