@@ -11,8 +11,7 @@ data/: Contains life_expectancy_data.csv.
 
 Rstudio Code/: Life Expectancy Predict.R
 
-Usage
-Clone: git clone https://github.com/akshayut1998/Life-Expectancy-Prediction-Project.git
+Usage : git clone https://github.com/akshayut1998/Life-Expectancy-Prediction-Project.git
 
 Acknowledgments
 
