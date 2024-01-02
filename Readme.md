@@ -15,6 +15,8 @@ Rstudio Code/: Life Expectancy Predict.R
 
 ## Acknowledgments
 
+This was a team project undertaken with my other teammates- Ali Khan, Mansi Sharma, David Gong, Yolanda Cheung
+
 ## Dataset from Kaggle -  
 
 https://www.kaggle.com/datasets/amirhosseinmirzaie/countries-life-expectancy
